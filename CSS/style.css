@@ -1,1 +1,10 @@
- 
+ .logo{
+    background: #000;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+ }
+ .graficlogo{
+    padding: 5px;
+    max-width: 100%;
+ }
