@@ -1,12 +1,20 @@
- .logo{
+ .logo {
     display: flex;
     justify-content: left;
     size: 10px;
     width: 100%;
  }
- .graficlogo{
+ .graficlogo {
    width: 100px;
  }
- .button{
-   width 10px
+ .button {
+  display: block;
+  height: 30px;
+  background-color: #690ab2;
+  border-color: mediumslateblue;
+  border-radius: 5px;
+  color: aliceblue;
+  cursor: pointer;
+  
+  
  }
